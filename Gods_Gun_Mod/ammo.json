@@ -39,9 +39,9 @@
     "stack_size": 200,
     "ammo_type": "god",
     "casing": "god_casing",
-    "dispersion": 150,
     "range": 65,
     "damage": { "damage_type": "bullet", "amount": 7, "armor_penetration": 15 },
+    "dispersion": 250,
     "recoil": 2500,
     "effects": [ ]
   }
