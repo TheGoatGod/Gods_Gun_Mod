@@ -1,0 +1,14 @@
+[
+  {
+    "type": "item_group",
+    "id": "church",
+    "subtype": "distribution",
+    "items": [
+      [ "gods_magazine", 6 ],
+      [ "gods_extended_magazine", 4 ],
+      [ "gods_caliber", 8 ],
+      [ "gods_caliber_worn", 15 ],
+      [ "gods_gun", 1 ]
+    ]
+  }
+]
