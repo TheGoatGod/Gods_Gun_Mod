@@ -20,7 +20,7 @@
     "damage": { "damage_type": "bullet", "amount": 40, "armor_penetration": 35 },
     "dispersion": 150,
     "recoil": 500,
-    "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
+    "effects": [ "NEVER_MISFIRES" ]
   },
   {
     "id": "gods_caliber_worn",
@@ -41,8 +41,8 @@
     "casing": "god_casing",
     "dispersion": 150,
     "recoil": 1500,
-    "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
     "range": 65,
     "damage": { "damage_type": "bullet", "amount": 7, "armor_penetration": 15 },
+    "effects": [ ]
   }
 ]
