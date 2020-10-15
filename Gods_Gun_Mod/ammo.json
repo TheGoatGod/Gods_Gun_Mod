@@ -40,9 +40,9 @@
     "ammo_type": "god",
     "casing": "god_casing",
     "dispersion": 150,
-    "recoil": 1500,
     "range": 65,
     "damage": { "damage_type": "bullet", "amount": 7, "armor_penetration": 15 },
+    "recoil": 2500,
     "effects": [ ]
   }
 ]
