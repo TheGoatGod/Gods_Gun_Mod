@@ -15,7 +15,7 @@
     "bashing": 12,
     "material": [ "steel" ],
     "ammo": [ "god" ],
-    "range": 100,
+    "range": 65,
     "ranged_damage": { "damage_type": "bullet", "amount": 50 },
     "dispersion": 130,
     "durability": 50,
