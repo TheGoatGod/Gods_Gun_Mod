@@ -25,7 +25,7 @@
   {
     "id": "gods_caliber_worn",
     "type": "AMMO",
-    "name": { "str": ".50 BMG M33 Ball" },
+    "name": { "str": "Gods caliber -WORN-" },
     "description": "Know one knows what this really is but it fits perfectly inside that gun with the scription of gods gun on the side.  You do not know how this come to you but you get used to it.  Doesn't handle very well and recoil is blown out the window with this.  Worn down by time this will still mow through zombies.  Do not throw this might disappear.",
     "weight": "100 g",
     "volume": "200 ml",
