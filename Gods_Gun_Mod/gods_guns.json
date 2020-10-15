@@ -4,7 +4,7 @@
     "copy-from": "rifle_base",
     "type": "GUN",
     "name": { "str_sp": "Gods gun" },
-    "description": "A large, shoulder-fired, .50 caliber anti-materiel rifle.  Its large size, recoil, and noise is offset by its damage and range.",
+    "description": "Gods gun wasn't meant to be used by any meer mortal, so how it ended up in your hands he won't know.  also, it heats up your body as well as eats through zombies!  This gun will only allow the bullets to shoot very far but they suspend in animaion if you could see that far.  This is no ordernary gun do not leave the switch on at night a little note says.  You read scribbled on the gun.  -GODS GUN-",
     "weight": "12950 g",
     "volume": "7570 ml",
     "longest_side": "150 cm",
