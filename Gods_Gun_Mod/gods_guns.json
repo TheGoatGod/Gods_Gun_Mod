@@ -1,0 +1,34 @@
+[
+  {
+    "id": "gods_gun",
+    "copy-from": "rifle_base",
+    "type": "GUN",
+    "name": { "str_sp": "Gods gun" },
+    "description": "A large, shoulder-fired, .50 caliber anti-materiel rifle.  Its large size, recoil, and noise is offset by its damage and range.",
+    "weight": "12950 g",
+    "volume": "7570 ml",
+    "longest_side": "150 cm",
+    "barrel_volume": "1000 ml",
+    "price": 1483300,
+    "price_postapoc": 0,
+    "to_hit": -1,
+    "bashing": 12,
+    "material": [ "steel" ],
+    "ammo": [ "god" ],
+    "range": 100,
+    "ranged_damage": { "damage_type": "bullet", "amount": 50 },
+    "dispersion": 130,
+    "durability": 50,
+    "default_mods": [  ],
+    "flags": [ "NEVER_JAMS" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "gods_magazine", "gods_extended_magazine" ]
+      }
+    ]
+  }
+]
