@@ -100,5 +100,5 @@
     "mod_targets": [ "gods_gun" ],
     "handling_modifier": 10,
     "min_skills": [ [ "weapon", 8 ] ]
-  },
+  }
 ]
