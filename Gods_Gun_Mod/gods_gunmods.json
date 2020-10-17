@@ -82,7 +82,7 @@
     "flags": [ "DISABLE_SIGHTS", "ZOOM" ]
   },
   {
-    "id": "pistol_grip",
+    "id": "gods_grip",
     "type": "GUNMOD",
     "name": { "str": "ergonomic grip" },
     "description": "A set of gods grips to improve handling.",
