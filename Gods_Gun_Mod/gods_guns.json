@@ -19,7 +19,6 @@
     "ranged_damage": { "damage_type": "bullet", "amount": 50 },
     "dispersion": 130,
     "durability": 50,
-    "default_mods": [  ],
     "flags": [ "NEVER_JAMS" ],
     "pocket_data": [
       {
