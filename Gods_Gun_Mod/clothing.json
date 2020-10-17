@@ -27,7 +27,7 @@
     "warmth": 50,
     "material_thickness": 3,
     "environmental_protection": 25,
-    "flags": [ "VARSIZE", "FANCY", "WATER_FRIENDLY", "POCKETS", "OUTER", "TRADER_AVOID" ]
+    "flags": [ "VARSIZE", "FANCY", "WATER_FRIENDLY", "POCKETS", "OUTER", "TRADER_AVOID", "BIO_IMMUNE", "BASH_IMMUNE", "CUT_IMMUNE", "BULLET_IMMUNE", "ACID_IMMUNE", "STAB_IMMUNE", "HEAT_IMMUNE", "COLD_IMMUNE", "ONLY_ONE"  ]
   },
   {
     "id": "gods_sandals",
@@ -47,7 +47,7 @@
     "coverage": 50,
     "encumbrance": 4,
     "material_thickness": 3,
-    "flags": [ "VARSIZE", "FANCY", "WATER_FRIENDLY", "STURDY", "TRADER_AVOID" ]
+    "flags": [ "VARSIZE", "FANCY", "WATER_FRIENDLY", "STURDY", "TRADER_AVOID", "ONLY_ONE", ]
   },
   {
     "id": "gods_glow",
@@ -65,6 +65,6 @@
     "coverage": 20,
     "encumbrance": 0,
     "material_thickness": 3,
-    "flags": [ "AURA", "VARSIZE", "FANCY", "WATER_FRIENDLY", "STURDY", "TRADER_AVOID" ]
+    "flags": [ "AURA", "VARSIZE", "FANCY", "WATER_FRIENDLY", "STURDY", "TRADER_AVOID", "ONLY_ONE", "FLASH_PROTECTION" ]
   }
 ]
