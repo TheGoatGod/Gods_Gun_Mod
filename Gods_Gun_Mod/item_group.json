@@ -13,7 +13,12 @@
       [ "gods_brass_catcher", 2 ],
       [ "gods_stock", 2 ],
       [ "gods_scope", 2 ],
-      [ "gods_grip", 2 ]
+      [ "gods_grip", 2 ],
+      [ "cupids_bow", 3 ],
+      [ "gods_robe", 1 ],
+      [ "gods_sandals", 1 ],
+      [ "gods_glow", 1 ],
+      [ "gods_spear", 1 ]
     ]
   }
 ]
